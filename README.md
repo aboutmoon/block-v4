@@ -1,4 +1,4 @@
-# block-v3
+# block-v4
 
 #####1. 将创建区块链的操作放到命令
 - NewBlockChain
